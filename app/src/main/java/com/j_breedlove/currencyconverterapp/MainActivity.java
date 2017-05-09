@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    // on click method for button
     public void convert(View view) {
         EditText dollarField = (EditText) findViewById(R.id.editText);
 
