@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+// simple currency converter app
+
 public class MainActivity extends AppCompatActivity {
 
     // on click method for button
